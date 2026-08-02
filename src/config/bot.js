@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
+        name: "I HAVE A BIG DICK", // required by Discord API, not shown in the client
         states : "I HAVE A BIG DICK",     // this is what people actually see
         type: 4,               // Custom
       },
